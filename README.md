@@ -13,13 +13,20 @@ I transform raw data into meaningful insights and build intelligent solutions th
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · C++
 
-**Data Analytics:** Power BI · Excel · Pandas · NumPy · DAX
+### 🛠️ Tech Stack
 
-**AI & Machine Learning:** OCR · Data Processing · Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,git,github" alt="Python, MySQL, C++, Git and GitHub" />
+</p>
 
-**Tools:** Git · GitHub · MySQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
 
 ---
 
