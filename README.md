@@ -55,6 +55,24 @@ A web application project built using MongoDB, Express.js, React, and Node.js.
 
 ---
 
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deva0703&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva0703&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deva0703&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/devarajdataanalyst/)
